@@ -1,8 +1,9 @@
-# React + Vite
+# React Table Tutorial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this tutorial you will learn how to build a complex table using the React TanStack table library. The table will include many cool features like: custom filtering, sorting, pagination, column resizing, etc. I will be using Chakra UI to style the components.
 
-Currently, two official plugins are available:
+Package References:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [TanStack Table](https://tanstack.com/table/v8)
+- [Chakra UI](https://chakra-ui.com/)
+- [React DatePicker](https://www.npmjs.com/package/react-datepicker?activeTab=readme)
